@@ -1,0 +1,9 @@
+{
+    "states":[
+        {
+            "name": "sanjose",
+            "abbrivation": "sanj",
+            "area_cods": ["243","542"]
+        }
+    ]
+}
